@@ -56,3 +56,7 @@ This AI skiing coach has the potential to revolutionize how skiers train, making
 
 With the right development approach, this application could become a game-changer in skiing coaching and sports training as a whole.
 
+## References
+
+[Technical Documentation](./Document/Tech_Doc.md)
+
